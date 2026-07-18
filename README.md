@@ -1,39 +1,81 @@
-# 👋 Hi, I'm Rose Abilio Po
+<h1 align="center">Hi 👋, I'm Rose</h1>
 
-[![GitHub followers](https://img.shields.io/github/followers/amancodesxdd?style=social)](https://github.com/amancodesxdd)
-[![Twitter Follow](https://img.shields.io/twitter/follow/amancodesxdd?style=social)](https://twitter.com/amancodesxdd)
+<h3 align="center"> A Passionate B.Tech Student & Aspiring Software Developer from India 🇮🇳</h3>
 
-## 🚀 About Me
-- 🔭 I'm currently learning **Java** and **Spring Boot**
-- ⭐️ i have knowlede on **python** and **C**
-- 🌱 Exploring **Web Development** and **DSA**
-- 💬 Ask me about: **Java, Git, GitHub, and Spring Boot**
-- ⚡ I push code to GitHub every day! 💻
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;First-Year+B.Tech+Student;Learning+C+%7C+Java+%7C+Git;Future+Full-Stack+Developer;Always+Learning+Something+New+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rosefishh&label=Profile+Views&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/rosefishh?label=Followers&style=for-the-badge&logo=github" />
+</p>
+
+---
+
+
+-  First-Year B.Tech Student
+-  Currently learning **C Programming**, **Java**, and **Git & GitHub**
+-  Exploring **Data Structures & Algorithms**, **Web Development**, and **Open Source**
+-  Passionate about coding, problem-solving, and building projects
+-  Learning something new every day
+-  Goal: Become a Full-Stack Software Developer
+
+---
+
+
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📈 GitHub Stats
-
-![Rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosefishh&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosefishh&layout=compact&theme=radical)
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rosefishh&theme=radical)
-
-## 📌 Pinned Projects
-
-[![File Renaming Automation](https://github-readme-stats.vercel.app/api/pin/?username=rosefishh&repo=rename-file-python&theme=radical)](https://github.com/rosefishh/rename-file-python)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,java,git,github,vscode" />
+</p>
 
 
+---
 
-⭐️ From [rosefishh](https://github.com/rosefishh)## Hi there 👋
+## 🔥 GitHub Streak
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rosefishh&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+##  Currently Working On
+
+-  Improving my programming fundamentals
+-  Building beginner-friendly projects
+-  Learning Web Development
+-  Growing my GitHub profile
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Master C Programming
+- ✅ Learn Java and DSA
+- ✅ Build exciting projects
+- ✅ Contribute to Open Source
+- ✅ Stay consistent on GitHub
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://github.com/rosefishh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  <i>"The only way out is through"</i> 
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile! Have a great day! ⭐
+</p>
 
