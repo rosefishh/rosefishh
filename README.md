@@ -102,42 +102,50 @@ My goal is to become a strong software engineer with solid fundamentals and the 
 
 ---
 
+
 ## Featured Projects
 
-### 01. Snare
-
-**Developed with Team Parallax**
-
-A collaborative software project developed as part of Team Parallax, focused on building a practical solution through teamwork and software development.
-
-**Project Highlights**
-- Collaborative development and problem-solving.
-- Practical application of programming and development concepts.
-- Team-based implementation and project development.
-
-**Technologies:** <!-- ADD ACTUAL TECHNOLOGIES USED -->
-
-**Repository:** <!-- ADD SNARE REPOSITORY LINK -->
+A selection of projects demonstrating my experience with backend development, AI-based systems, REST API design, and collaborative software engineering.
 
 ---
 
-### 02. KnowU
+### 01. SNARE — AI Document Tampering Detection System
 
-**An AI Context & Personalization Tool**
+**Smart India Hackathon 2026 | Team PARALLAX | Top 18**
 
-A project currently being developed to make interactions with AI systems more personalized by automatically providing relevant user preferences and context.
+An explainable AI-powered document verification system designed to detect document tampering, image manipulation, and synthetic document fraud. SNARE focuses on forensic document analysis by combining image processing, AI-based detection, and backend services to identify suspicious alterations and support more transparent document verification.
 
-The idea is to reduce repetitive prompting and make AI interactions more consistent and context-aware.
+- Contributed to developing a multi-tier architecture integrating image processing, backend APIs, and database management.
+- Worked on a forensic verification solution for identifying manipulated documents and suspicious alterations.
+- Explored computer vision techniques and AI-driven document analysis using OpenCV and Python.
+- Collaborated with a multidisciplinary team to develop a solution for a real-world document security problem.
 
-**Project Focus**
-- User preference management.
-- Context organization and retrieval.
-- Integrating user context into AI interactions.
-- Building a practical software solution around AI personalization.
+**Tech Stack:** Next.js, Express.js, Python, FastAPI, OpenCV, PostgreSQL.
 
-**Technologies:** <!-- ADD YOUR ACTUAL TECH STACK -->
+**Repository:** [SNARE — AI Document Tampering Detection System](https://github.com/rosefishh/parallax-project)
 
-**Repository:** <!-- ADD KNOWU REPOSITORY LINK -->
+
+---
+
+### 02. Bookmark Manager — RESTful API
+
+**Backend Development | Java & Spring Boot**
+
+A RESTful backend application built to manage and organize saved website bookmarks through structured API endpoints. The application supports complete bookmark management with CRUD operations, a relational tagging system for categorization and filtering, and an integrated URL shortener that generates unique short codes and redirects users to their original links.
+
+- Implemented complete CRUD functionality for bookmark creation, retrieval, updating, and deletion.
+- Designed a many-to-many relationship between bookmarks and tags, enabling categorization and tag-based filtering.
+- Developed a URL shortening mechanism with unique short codes and redirect functionality.
+- Implemented request validation and centralized exception handling for consistent API responses.
+- Configured environment-based database credentials to avoid hardcoding sensitive configuration.
+
+**Tech Stack:** Java 17, Spring Boot, Maven, MySQL 8.0, Spring Validation.
+
+**Repository:** [Bookmark Manager](https://github.com/rosefishh/bookmark-manager)
+
+---
+
+
 
 ---
 
