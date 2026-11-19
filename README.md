@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rose</h1>
+<h1 align="center">HELLO, ROSE THIS SIDE</h1>
 
 <h3 align="center"> A Passionate B.Tech Student & Aspiring Software Developer from India 🇮🇳</h3>
 
